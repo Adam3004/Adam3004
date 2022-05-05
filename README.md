@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam Misztal
 - 👀 I’m interested in programming
 - 🌱 I’m currently studying Computer Science 
-- 💞️ I’m looking to internship
+- 💞️ I’m looking for an internship 
 
 <!---
 Adam3004/Adam3004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
