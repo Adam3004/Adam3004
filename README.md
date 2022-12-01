@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Misztal
 - 👀 I’m interested in programming
-- 🌱 I’m currently studying Computer Science 
+- 🌱 I’m currently studying Computer Science (second year)
 - 📖 I’m looking for an internship 
 
 <!---
